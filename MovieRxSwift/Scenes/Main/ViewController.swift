@@ -20,7 +20,4 @@ class ViewController: UIViewController {
             }
             .disposed(by: rx.disposeBag)
     }
-
-
 }
-
