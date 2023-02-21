@@ -11,5 +11,7 @@ pod 'RxSwift'
 pod 'RxCocoa'
 pod 'NSObject+Rx'
 pod 'MGArchitecture'
+pod 'Reusable'
+pod 'Then'
 
 end

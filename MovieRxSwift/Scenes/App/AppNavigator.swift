@@ -15,10 +15,9 @@ struct AppNavigator: AppNavigatorType {
     unowned let window: UIWindow
     
     func toMain() {
-        let storyboard = UIStoryboard(name: "Main", bundle: nil)
-        guard let viewController = storyboard.instantiateViewController(withIdentifier: "ViewController") as? ViewController else {
-            return
-        }
+        let viewModel = CategoryViewModel()
+        let viewController = CategoryViewController()
+        viewController.bindViewModel(to: viewModel)
         let navigationController = UINavigationController(rootViewController: viewController)
         navigationController.isNavigationBarHidden = true
         window.rootViewController = navigationController

@@ -8,7 +8,7 @@
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
             uuid = "FAE11A85-DE33-45B1-B608-A48654F2B80D"
-            shouldBeEnabled = "Yes"
+            shouldBeEnabled = "No"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "MovieRxSwift/Application/AppDelegate.swift"
@@ -18,6 +18,99 @@
             endingLineNumber = "33"
             landmarkName = "bindViewModel()"
             landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "968353D1-E9C6-4AC0-8163-25C41D2D63B1"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MovieRxSwift/Scenes/Category/CategoryCell/CategoryTableViewCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "11"
+            endingLineNumber = "11"
+            landmarkName = "CategoryTableViewCell"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "968353D1-E9C6-4AC0-8163-25C41D2D63B1 - f3f847c6f7aa56b5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MovieRxSwift.CategoryTableViewCell.__allocating_init(style: __C.UITableViewCellStyle, reuseIdentifier: Swift.Optional&lt;Swift.String&gt;) -&gt; MovieRxSwift.CategoryTableViewCell"
+                  moduleName = "MovieRxSwift"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/work/Desktop/MovieRxSwift/MovieRxSwift/Scenes/Category/CategoryCell/CategoryTableViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "28">
+               </Location>
+               <Location
+                  uuid = "968353D1-E9C6-4AC0-8163-25C41D2D63B1 - cac715305908747d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MovieRxSwift.CategoryTableViewCell.init(style: __C.UITableViewCellStyle, reuseIdentifier: Swift.Optional&lt;Swift.String&gt;) -&gt; MovieRxSwift.CategoryTableViewCell"
+                  moduleName = "MovieRxSwift"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/work/Desktop/MovieRxSwift/MovieRxSwift/Scenes/Category/CategoryCell/CategoryTableViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "100">
+               </Location>
+               <Location
+                  uuid = "968353D1-E9C6-4AC0-8163-25C41D2D63B1 - eb15064f9251c203"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MovieRxSwift.CategoryTableViewCell.__allocating_init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;MovieRxSwift.CategoryTableViewCell&gt;"
+                  moduleName = "MovieRxSwift"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/work/Desktop/MovieRxSwift/MovieRxSwift/Scenes/Category/CategoryCell/CategoryTableViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "20">
+               </Location>
+               <Location
+                  uuid = "968353D1-E9C6-4AC0-8163-25C41D2D63B1 - a6cfd4c888cf5d66"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MovieRxSwift.CategoryTableViewCell.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;MovieRxSwift.CategoryTableViewCell&gt;"
+                  moduleName = "MovieRxSwift"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/work/Desktop/MovieRxSwift/MovieRxSwift/Scenes/Category/CategoryCell/CategoryTableViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "68">
+               </Location>
+               <Location
+                  uuid = "968353D1-E9C6-4AC0-8163-25C41D2D63B1 - b5cd38bc93554b8a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MovieRxSwift.CategoryTableViewCell.__deallocating_deinit"
+                  moduleName = "MovieRxSwift"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/work/Desktop/MovieRxSwift/MovieRxSwift/Scenes/Category/CategoryCell/CategoryTableViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "28">
+               </Location>
+            </Locations>
          </BreakpointContent>
       </BreakpointProxy>
    </Breakpoints>
